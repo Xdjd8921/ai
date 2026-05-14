@@ -1,0 +1,9 @@
+{
+  "name": "CineAI - Pro Video Enhancer",
+  "description": "Modern AI-powered video enhancement platform with futuristic UI for HD/4K upscaling, cinematic effects, and automated subtitles.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
